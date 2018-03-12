@@ -1,3 +1,5 @@
+//dup reads from the stdin and return the number and content of any duplicated lines
+
 package main
 
 import (
